@@ -1,4 +1,5 @@
 .vscode
 .venv
 data/
+.ipynb_checkpoints
 *.csv
